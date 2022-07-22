@@ -2,7 +2,14 @@
 
 简体中文与繁体中文文本转换工具
 
-字典来自 [OpenCC](https://github.com/BYVoid/OpenCC)
+简繁对应表来自 [OpenCC](https://github.com/BYVoid/OpenCC)
+
+## 安装
+
+```shell
+go install github.com/fhluo/zhconv/cmd/t2s
+go install github.com/fhluo/zhconv/cmd/s2t
+```
 
 ## CLI
 
