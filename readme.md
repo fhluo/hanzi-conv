@@ -7,8 +7,8 @@
 ## 安装
 
 ```shell
-go install github.com/fhluo/zhconv/cmd/t2s
-go install github.com/fhluo/zhconv/cmd/s2t
+go install github.com/fhluo/zhconv/cmd/t2s@latest
+go install github.com/fhluo/zhconv/cmd/s2t@latest
 ```
 
 ## CLI
